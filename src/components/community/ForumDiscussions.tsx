@@ -9,14 +9,14 @@ const ForumDiscussions = () => {
       link: '#'
     },
     {
-      name: 'Discord',
-      description: 'Real-time chat and community engagement',
-      link: '#'
+      name: 'X',
+      description: 'Microblogging platform for real-time updates',
+      link: ' https://x.com/indox_crypto?s=21'
     },
     {
-      name: 'Telegram',
-      description: 'News updates and international communities',
-      link: '#'
+      name: 'Reddit',
+      description: 'Community-driven discussions and content.',
+      link: 'https://www.reddit.com/r/indox_crypto/s/he98kJSD9X'
     }
   ];
 
