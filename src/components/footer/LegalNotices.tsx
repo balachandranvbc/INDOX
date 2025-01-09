@@ -9,14 +9,18 @@ const LegalNotices = () => {
         </div>
         <div className="flex gap-6 text-sm">
           <a
-            href="/terms"
+            href="about:blank"
             className="text-gray-400 hover:text-purple-500 transition-colors"
+            target="_blank" 
+            rel="noopener noreferrer" 
           >
             Terms & Conditions
           </a>
           <a
-            href="/privacy"
+            href="about:blank"
             className="text-gray-400 hover:text-purple-500 transition-colors"
+            target="_blank" 
+            rel="noopener noreferrer" 
           >
             Privacy Policy
           </a>
